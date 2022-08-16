@@ -12,7 +12,7 @@
    },
    "server": {
       "ip": "Jenil5000dpV7.aternos.me",
-      "port": 25565,
+      "port": 17529,
       "version": "1.19.11"
    },
    "utils": {
